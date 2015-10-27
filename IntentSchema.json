@@ -1,0 +1,18 @@
+{
+    "intents": [
+        {
+            "intent": "MyToaster",
+            "slots": [
+                {
+                    "name": "Commands",
+                    "type": "LITERAL"
+                },
+              {
+                    "name": "Time",
+                    "type": "NUMBER"
+                }
+            ]
+        }
+
+    ]
+}
