@@ -12,7 +12,7 @@ Clone this project, go into the cloned folder and run
  - Create a new Alexa Skill
  - Update line 17 in index.js with your skill APP_ID
  
- Zip the files and upload it to the Amazon Lambda Function service.
+Zip the files and upload it to the Amazon Lambda Function service.
 
 https://aws.amazon.com/lambda/
 
@@ -23,3 +23,6 @@ https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit
 # Creat a Lambda Function:
  
 The easiest way to build the cloud-based service for an Alexa skill is by using AWS Lambda, an Amazon Web Services offering that runs your code only when it’s needed and scales automatically, so there is no need to provision or continuously run servers. You simply upload the code for your Alexa skill and Lambda does the rest, executing it in response to Alexa voice interactions and automatically managing the compute resources for you. Please look at this link for [more details].
+
+
+[more details]: https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit?sc_channel=Portal&sc_campaign=Alexa&sc_detail=TAAS
