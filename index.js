@@ -14,7 +14,7 @@
 /**
  * App ID for the skill
  */
-var APP_ID = "amzn1.echo-sdk-ams.app.c781f118-0826-4ab8-a19c-5e9a1c87299d";
+var APP_ID = "amzn1.echo-sdk-ams.app.{YOUR_ALEXA_APP_ID}";
 var request = require('request');
 
 
